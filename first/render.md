@@ -2,6 +2,9 @@
 
 ## 🧭 Abikesa’s First API — **Mission Summary**
 
+- [Dashboard](https://dashboard.render.com/web/srv-cvu9aop5pdvs73e6bi90/deploys/dep-cvu9ap15pdvs73e6bidg)
+- [App](https://chat-styler.onrender.com/render)
+
 ### 🔧 What You Built:
 > A **fully deployed FastAPI app** on Render that takes a raw chat thread, styles it in **WhatsApp format**, and serves it beautifully as HTML.
 
